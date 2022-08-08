@@ -17,7 +17,7 @@
 
 **💻 I’m currently working at ...**
 
-- [Intelligient Sensing and Processing Lab](https://sites.google.com/view/ewhaeeshpark/people?authuser=0)
+- [Intelligient Sensing and Processing Lab](https://sites.google.com/view/ewhaeeshpark/people?authuser=0), Ewha Womans University
 
 
 **🚀 Experience**
