@@ -12,7 +12,7 @@
 
 **💬 I’m currently interested in ...**
 
-- | Production Scheduling Problem | Digital Image Processing | Deep Learning
+- Production Scheduling Problem | Digital Image Processing | Deep Learning
 
 
 **💻 I’m currently working at ...**
