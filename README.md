@@ -1,4 +1,4 @@
-### 🌳 Trang-Thoi (@tdktrang)
+### 👾 Trang-Thoi (@tdktrang)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thoidokieutrang/)](https://www.linkedin.com/in/thoidokieutrang/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:thoidokieutrang@gmail.com)
@@ -20,6 +20,6 @@
 - Intelligient Sensing and Processing Lab (https://sites.google.com/view/ewhaeeshpark/people?authuser=0)
 
 
-**😄 Experience**
+**🚀 Experience**
 - *Engineering Intern* @ [Binh An Factory](https://www.nestle.com.vn/vi), Nestle Viet Nam (*2021.05 - 2021.12*)
 - *Undergraduate Researcher* @ [Project Management and Systems Engineering Lab](http://gempm0101.cafe24.com/default/), Pohang University of Science and Technology (*2020.01*)
