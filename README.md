@@ -3,6 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thoidokieutrang/)](https://www.linkedin.com/in/thoidokieutrang/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:thoidokieutrang@gmail.com)
 
+<hr>
+
+<h3 align="center">&#x1f4c8; GitHub Stats</h3>
 
 **📚 Education**
 
