@@ -5,7 +5,7 @@
 
 <hr>
 
-<h3 align="center"
+<h3 align="center"</h3>
 
 **📚 Education**
 
