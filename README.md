@@ -5,7 +5,7 @@
 
 <hr>
 
-<h3 align="center">&#x1f4c8; GitHub Stats</h3>
+<h3 align="center"
 
 **📚 Education**
 
