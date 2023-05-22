@@ -22,5 +22,5 @@
 
 
 **🚀 Experience**
-- *Engineering Intern* @ [Binh An Factory](https://www.nestle.com.vn/vi), Nestle Viet Nam (*2021.05 - 2021.12*)
+- *Engineering Intern* @ [Nestle Viet Nam](https://www.nestle.com.vn/vi) (*2021.05 - 2021.12*)
 - *Undergraduate Researcher* @ [Project Management and Systems Engineering Lab](http://gempm0101.cafe24.com/default/), Pohang University of Science and Technology (*2020.01*)
