@@ -1,7 +1,6 @@
 ### 👾 Trang-Thoi (@tdktrang)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tdktrang">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thoidokieutrang/)](https://www.linkedin.com/in/thoidokieutrang/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:thoidokieutrang@gmail.com)
 <br/>
 <hr>
