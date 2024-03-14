@@ -7,7 +7,7 @@
 
 **📚 Education**
 
-- B.S of Industrial Systems Engineering at Ho Chi Minh City University of Technology, Viet Nam (*2017.09 - 2022.08*)
+- B.E of Industrial Systems Engineering at Ho Chi Minh City University of Technology, Viet Nam (*2017.09 - 2022.08*)
 - Exchange Student at University of Limerick, Ireland (*2019.09 - 2019.12*)
 
 **💬 I’m currently interested in ...**
