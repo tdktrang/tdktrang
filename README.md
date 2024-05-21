@@ -7,8 +7,8 @@
 
 **📚 Education**
 
-- B.E of Industrial Systems Engineering at Ho Chi Minh City University of Technology, Viet Nam (*2017.09 - 2022.08*)
-- Exchange Student at University of Limerick, Ireland (*2019.09 - 2019.12*)
+- B.E of Industrial Systems Engineering at Ho Chi Minh City University of Technology, Viet Nam 
+- Exchange Student at University of Limerick, Ireland 
 
 **💬 I’m currently interested in ...**
 
@@ -21,5 +21,5 @@
 
 
 **🚀 Experience**
-- *Engineering Intern* @ [Nestle Viet Nam](https://www.nestle.com.vn/vi) (*2021.05 - 2021.12*)
-- *Undergraduate Researcher* @ [Project Management and Systems Engineering Lab](http://gempm0101.cafe24.com/default/), Pohang University of Science and Technology (*2020.01*)
+- *Engineering Intern* @ [Nestle Viet Nam](https://www.nestle.com.vn/vi) 
+- *Undergraduate Researcher* @ [Project Management and Systems Engineering Lab](http://gempm0101.cafe24.com/default/), Pohang University of Science and Technology 
